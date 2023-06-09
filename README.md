@@ -12,7 +12,7 @@ Takes Hexadecimal input, luminance factor, and a mode option ([L]ighten or [D]ar
 
 ### RGBConversions.yymps
 GameMakerLanguage (GML) package that contains a Decimal to Hex converter ```DecToHex()``` for converting RGB values to Hex.
--Useful for taking Hexadecimal strings as input and converting to color with make_color_rgb()
+- Useful for taking Hexadecimal strings as input and converting to color with make_color_rgb()
 
 Also contains ```ColApplyLum()``` which takes ANY color input (#xxxxxx, $xxxxxx, c_color, or make_color_rgb()) and apply luminance factor to it.
 
