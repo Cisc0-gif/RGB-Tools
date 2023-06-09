@@ -1,6 +1,6 @@
 # RGB-Tools
 
-This is a small repo I thought I'd dump the resources I used to help polish my [latest project Compound Chess](https://fergo310.itch.io/compound-chess)! Below is a Table of Contents for the scripts and resources located in this repo.
+This is a small repo I thought I'd dump the resources I used to help polish my latest project [Compound Chess](https://fergo310.itch.io/compound-chess)! Below is a Table of Contents for the scripts and resources located in this repo.
 
 ## Scripts:
 
