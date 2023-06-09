@@ -1,0 +1,18 @@
+-Random RGB values generated (##1, ##2, ##3)
+-##r = 255 - ##1
+-##g = 255 - ##2
+-##b = 255 - ##3
+
+First #:
+##r / 16 - ((##r / 16) % 1) (divide by 16 and then remove decimal remainder)
+
+Second #:
+(##r / 16) % 1) * 16 (multiply decimal remainder by 16)
+
+Decimal:
+0123456789 10 11 12 13 14 15
+
+Hex:
+0123456789 A  B  C  D  E  F
+
+
